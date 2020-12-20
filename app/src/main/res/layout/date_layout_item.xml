@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools">
+
+    <data>
+
+        <variable
+            name="dateModel"
+            type="com.bg.airholland.model.obj.DateModel" />
+
+        <variable
+            name="dateModel_one"
+            type="com.bg.airholland.model.obj.DateItem" />
+
+        <!--<variable
+            name="utils"
+            type="com.bg.callhistory.utils.CallUtils" />-->
+
+    </data>
+
+    <androidx.constraintlayout.widget.ConstraintLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:paddingTop="@dimen/padding_6dp"
+        android:paddingBottom="@dimen/padding_6dp"
+        android:background="@color/limba_grey"
+        >
+
+        <TextView
+            android:id="@+id/textView_call_from"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:fontFamily="sans-serif"
+            android:text="@{dateModel_one.date}"
+            android:textColor="@color/black"
+            android:textSize="@dimen/text_size_16_sp"
+            app:layout_constraintBottom_toBottomOf="parent"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintHorizontal_bias="0.07"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toTopOf="parent"
+            tools:ignore="MissingConstraints" />
+
+    </androidx.constraintlayout.widget.ConstraintLayout>
+
+</layout>

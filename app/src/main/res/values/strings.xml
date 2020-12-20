@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">AirHolland</string>
+    <string name="action_settings">Settings</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="roster_details_fragment_label">Roster Details</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+    <string name="today">Today</string>
+    <string name="yesterday">Yesterday</string>
+    <string name="str_info_not_available">No info available</string>
+    <string name="str_flight_details">Flight Details</string>
+    <string name="str_flight">Flight</string>
+    <string name="str_depart_time">Depart Time</string>
+    <string name="str_arrive_time">Arrive Time</string>
+    <string name="str_data_not_available">Data not available</string>
+</resources>

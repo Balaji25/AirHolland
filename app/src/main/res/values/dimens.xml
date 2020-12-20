@@ -1,0 +1,16 @@
+<resources>
+    <dimen name="fab_margin">16dp</dimen>
+
+    <dimen name="_8sdp">8dp</dimen>
+    <dimen name="_4sdp">4dp</dimen>
+    <dimen name="text_size_16_sp">16sp</dimen>
+    <dimen name="text_size_18_sp">18sp</dimen>
+    <dimen name="text_size_24_sp">24sp</dimen>
+    <dimen name="margin_2dp">2dp</dimen>
+    <dimen name="margin_4dp">4dp</dimen>
+    <dimen name="margin_8dp">8dp</dimen>
+    <dimen name="margin_10dp">10dp</dimen>
+    <dimen name="margin_12dp">12dp</dimen>
+    <dimen name="padding_8dp">8dp</dimen>
+    <dimen name="padding_6dp">6dp</dimen>
+</resources>

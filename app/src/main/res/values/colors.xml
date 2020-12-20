@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#6200EE</color>
+    <color name="colorPrimaryDark">#3700B3</color>
+    <color name="colorAccent">#03DAC5</color>
+    <color name="black">#000000</color>
+    <color name="light_grey">#807A7A</color>
+    <color name="limba_grey">#F3F0F0</color>
+    <color name="light_red">#CD3232</color>
+    <color name="extra_light_grey">#939090</color>
+    <color name="zombie_grey">#7E7B7B</color>
+    <color name="header_color">#2196F3</color>
+
+</resources>
